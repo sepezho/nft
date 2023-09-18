@@ -1,0 +1,13 @@
+    {
+        "attributes": [
+            {
+                "trait_type": "Type",
+                "value": "Testnet"
+            }
+        ],
+        "name": "EVAA Testnet Card",
+        "description": "A specialized card for those actively participating in the Evaa Protocol Testnet phase.",
+        "image": "https://github.com/",
+        "animation_url": "<>"
+    }
+
